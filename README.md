@@ -4,4 +4,5 @@ for cs50
    changes to the version file...
     okay ???
     
-    
+  got a lot of work to do here.  
+
